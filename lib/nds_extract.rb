@@ -3,8 +3,10 @@ require 'directors_database'
 require 'pry'
 
 def directors_totals(nds)
-  # binding.pry
+  
+  
   # {directorName => earnings ...}
+  
   counter = 0
   new_hash = {}
   
